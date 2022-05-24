@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wolfy29
+- 👋 Hi, I’m @Wolfy
 - 👀 I’m interested in becoming a backend developper
 - 🌱 I’m currently learning Python 3 
 - 💞️ I’m looking to collaborate on learning how to professionalize myself doing projects I like
