@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wolfy29
 - 👀 I’m interested in becoming a backend developper
 - 🌱 I’m currently learning Python 3 
-- 💞️ I’m looking to collaborate on learning how to professionalize my self doing projects I like
+- 💞️ I’m looking to collaborate on learning how to professionalize myself doing projects I like
 - 📫 You can reach me on tguimard@icloud.com
 
 <!---
