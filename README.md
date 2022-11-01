@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wolfy
+- 👋 Hi, I’m @Tristan
 - 👀 I’m interested in becoming a backend developper in Web3
 - 🌱 I’m currently learning Javascript, NodeJS and Solidity
 - 💞️ I’m looking to collaborate on learning how to professionalize myself doing projects I like
